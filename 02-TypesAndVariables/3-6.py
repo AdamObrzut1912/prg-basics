@@ -4,7 +4,7 @@
 
 import math
 
-height = int(input("Give me a height in meters: "))
+height = float(input("Give me a height in meters: "))
 
 v = 3.57
 
