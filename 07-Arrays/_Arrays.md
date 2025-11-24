@@ -49,7 +49,17 @@ stalj@uek.krakow.pl
    arr = [2, 3, 7, 5, 4]
 
    print(arr)
+   print('Number of elements', len(arr))# Prints some array elements
+   #
+   arr = [2, 3, 7, 5, 4]
+   
+   print(arr)
    print('Number of elements', len(arr))
+   print('First value', arr[...])
+   print('Second value', arr[...])
+   ...
+   ...
+   
    print('First value', arr[...])
    print('Second value', arr[...])
    ...
