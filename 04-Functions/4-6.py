@@ -7,9 +7,20 @@ def day_name(day_number):
     if day_number == 1:
         result = 'Monday'
     elif day_number == 2:
-        ...
-    ...
-    ...
+        result = 'Thursday'
+    elif day_number == 3:
+        result = 'Wednesday'
+    elif day_number == 4:
+        result = 'Tuesday'
+    elif day_number == 5:
+        result = 'Friday'
+    elif day_number == 6:
+        result = 'Saturday'
+    elif day_number == 7:
+        result = 'Sunday'
+    else:
+        result = "day out of range"
+    
     return result
 
 # Function usage
