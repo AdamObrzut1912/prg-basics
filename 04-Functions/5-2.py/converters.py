@@ -10,8 +10,8 @@ def cm_inches(cm):
     inches = cm / 2.54
     return inches
 
-def feet_cm(feet):
-    cm = feet*30.48
+def feet_inches_cm(feet, inches):
+    cm_feet = feet*30.48
+    cm_inches = inches * 2.54
+    return cm_feet + cm_inches
 
-def inches_cm(inches):
-    cm = inches * 2.54
