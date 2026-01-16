@@ -1,0 +1,61 @@
+[
+  {
+    "id": 101,
+    "name": "Anna Kowalska",
+    "age": 20,
+    "course": "statistics",
+    "grades": {
+      "mathematics": 4.5,
+      "statistics": 4.0,
+      "programming": 3.5,
+      "history": 5.0,
+      "physics": 3.0
+    }
+  },
+  {
+    "id": 102,
+    "name": "Piotr Nowak",
+    "age": 22,
+    "course" : "programming",
+    "grades": {
+      "mathematics": 3.0,
+      "statistics": 4.5,
+      "programming": 5.0,
+      "physics": 4.0
+    }
+  },
+  {
+    "id": 103,
+    "name": "Ewa Zielińska",
+    "age": 25,
+    "course" : "statistics",
+    "grades": {
+      "mathematics": 4.0,
+      "statistics": 5.0,
+      "programming": 4.0,
+      "history": 4.5
+    }
+  },
+  {
+    "id": 104,
+    "name": "Michał Wójcik",
+    "course":"programming",
+    "age": 21,
+    "grades": {
+      "statistics": 3.0,
+      "programming": 3.5,
+      "physics": 5.0
+    }
+  },
+  {
+    "id": 105,
+    "name": "Karolina Lew",
+    "age": 23,
+    "course":"statistics",
+    "grades": {
+      "programming": 3.5,
+      "statistics": 4.5,
+      "mathematics": 5.0
+    }
+  }
+]
